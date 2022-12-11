@@ -11,7 +11,7 @@
 [![twitter](./img/twitter-dark.svg)](https://twitter.com/icchan_kun#gh-dark-mode-only)
 &nbsp;&nbsp;
 <a href="https://qiita.com/icchankun">
-<img src="./img/qiita.png" alt="qiita" width="40"/>
+<img src="./img/qiita.png" alt="qiita" width="50"/>
 </a>
 
 ### Languages and Tools:
@@ -37,7 +37,6 @@
 
   <h4>
     <img align="left" src="./img/github-city.svg" width="40" height="40" alt="github-city"/>
-    &nbsp;&nbsp;
     <a href="https://honzaap.github.io/GithubCity/?name=icchan-webapp&year=2022">
       GitHub City
     </a>
