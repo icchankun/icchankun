@@ -2,7 +2,7 @@
 
 ### I'm an architecture student and student engineer.
 
-- 🔭 I’m currently working on [bilbil](https://githu.com/icchan-webapp/bilbil.git)
+- 🔭 I’m currently working on [bilbil](https://github.com/icchan-webapp/bilbil.git)
 - 🌱 I’m currently learning Ruby on Rails and Vue.js
 
 ### Connect with me:
