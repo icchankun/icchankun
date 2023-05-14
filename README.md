@@ -1,8 +1,8 @@
-## Hi there, I'm icchan👋
+## Hi there, I'm icchankun👋
 
 ### I'm an architecture student and student engineer.
 
-- 🔭 I’m currently working on [bilbil](https://github.com/icchan-webapp/bilbil.git)
+- 🔭 I’m currently working on [bilbil](https://github.com/icchankun/bilbil.git)
 - 🌱 I’m currently learning Ruby on Rails and Vue.js
 
 ### Connect with me:
@@ -37,7 +37,7 @@
 
   <h4>
     <img align="left" src="./img/github-city.svg" width="40" height="40" alt="github-city"/>
-    <a href="https://honzaap.github.io/GithubCity/?name=icchan-webapp&year=2022">
+    <a href="https://honzaap.github.io/GithubCity/?name=icchankun&year=2023">
       GitHub City
     </a>
   </h4>
@@ -45,7 +45,7 @@
   <br />
   <br />
 
-  <img align="left" alt="icchan's GitHub Stats" src="https://raw.githubusercontent.com/icchan-webapp/icchan-webapp/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
-  <img align="left" alt="icchan's GitHub Stats" src="https://raw.githubusercontent.com/icchan-webapp/icchan-webapp/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-  <img align="left" alt="icchan's GitHub Stats" src="https://raw.githubusercontent.com/icchan-webapp/icchan-webapp/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img align="left" alt="icchankun's GitHub Stats" src="https://raw.githubusercontent.com/icchankun/icchankun/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img align="left" alt="icchankun's GitHub Stats" src="https://raw.githubusercontent.com/icchankun/icchankun/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img align="left" alt="icchankun's GitHub Stats" src="https://raw.githubusercontent.com/icchankun/icchankun/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </details>
